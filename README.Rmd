@@ -1,11 +1,10 @@
 ---
 title: "Lab 2: Introduction to RStudio"
-author: "___"
+author: "Kelsey Leach"
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
 
-> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE ____ WITH YOUR OWN TEXT
 
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
@@ -13,8 +12,9 @@ Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
 The objectives of this lab are:
 
-- ___
-- ___
+- To learn how to use the console to run commands
+- To learn how to use R as a calculator
+- To learn how to make objects and use functions
 
 ## Repository contents
 
